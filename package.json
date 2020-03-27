@@ -1,0 +1,15 @@
+{
+  "name": "Curso-API",
+  "version": "1.0.0",
+  "description": "- Cliente (Client)\r - Garçom (pedidos, levar seus pedidos para a cozinha) (API)\r - Cozinha (Server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
