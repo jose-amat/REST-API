@@ -1,6 +1,5 @@
 # API, REST, RESTFUL
 
-#HELLO
 - Cliente (Client)
 - Garçom (pedidos, levar seus pedidos para a cozinha) (API)
 - Cozinha (Server)
